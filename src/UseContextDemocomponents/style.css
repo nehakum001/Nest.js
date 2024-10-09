@@ -18,3 +18,13 @@ p{
    text-align: center;
    border: 1px solid black;
 }
+
+image {
+   width:25rem;
+   height: 25rem;
+}
+
+.center{
+   padding: 5%;
+}
+
